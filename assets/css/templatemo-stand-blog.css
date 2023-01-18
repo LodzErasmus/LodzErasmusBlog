@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6 {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(../images/heading-bg.jpg);
+	background-image: url(https://images.unsplash.com/photo-1508197149814-0cc02e8b7f74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2295&q=80);
 }
 
 .page-heading .text-content h4 {
